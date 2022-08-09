@@ -81,7 +81,7 @@ public class Student {
 	}
 
 	
-	public String infromation() {
+	public String information() {
 		return this.grade+", "+this.classroom+", "+this.name+", "+this.kor+", "+this.eng+", "+this.math;
 	}
 	
